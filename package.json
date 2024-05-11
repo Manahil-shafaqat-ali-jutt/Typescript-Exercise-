@@ -1,5 +1,5 @@
 {
-  "name": "5-quote",
+  "name": "6.stripping-names",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.11"
+  }
 }
