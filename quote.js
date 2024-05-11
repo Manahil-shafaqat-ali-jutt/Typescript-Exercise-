@@ -1,5 +1,6 @@
 "use strict";
-let quote = "A PERSON WHO NEVER MADE A MISTAKE NEVER TRIED ANYTHING NEW";
-let person_name = "albert Einstien";
-let message = `${person_name} once said ${quote}`;
-console.log(message);
+let quote = "A person who never made a mistake never tried anything new";
+let author = "Albert Einstein";
+console.log(`${author} once said, "${quote}`);
+let personName = "ERIC";
+console.log("would you like to learn some python today");
